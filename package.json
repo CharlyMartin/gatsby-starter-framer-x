@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-typescript",
-  "description": "Gatsby TypeScript starter",
+  "name": "gatsby-starter-framer-x",
+  "description": "Gatsby Starter Template for Framer X Project",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
