@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import Link from 'gatsby-link'
 import { graphql } from 'gatsby';
 import { ExampleComponent } from '../framerx/ExampleComponent';
