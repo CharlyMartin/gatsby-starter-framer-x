@@ -1,5 +1,6 @@
 import * as React from 'react'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby';
 import { ExampleComponent } from '../framerx/ExampleComponent';
 
 // Please note that you can use https://github.com/dotansimha/graphql-code-generator
